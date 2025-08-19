@@ -9,3 +9,4 @@
 ## Попередній перегляд звіту
 
 ![Dashboard Preview](Images/dashboard_preview.png)
+
