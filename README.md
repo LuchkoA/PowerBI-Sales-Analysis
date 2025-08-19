@@ -13,3 +13,7 @@
 ![Dashboard Preview](Images/dashboard_ABC_XYZ.png)
 
 ![Dashboard Preview](Images/Drill_th.png)
+
+![Dashboard Preview](Images/Clients.png)
+
+[DAX.md](Docs/DAX.md)
