@@ -5,3 +5,7 @@
 - Reports/ – Power BI файли (.pbix)
 - Data/ – джерела даних (Excel)
 - Images/ – скріншоти та графіки
+
+## Попередній перегляд звіту
+
+![Dashboard Preview](D:\Для портфоліо\PowerBi_Портфоліо\Images)
