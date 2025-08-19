@@ -8,4 +8,4 @@
 
 ## Попередній перегляд звіту
 
-![Dashboard Preview](D:\Для портфоліо\PowerBi_Портфоліо\Images)
+![Dashboard Preview](Images/dashboard_preview.png)
