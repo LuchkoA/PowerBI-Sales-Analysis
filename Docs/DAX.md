@@ -99,7 +99,7 @@ VAR Result = SWITCH(TRUE(),
 
 RETURN Result)
 
-# ABC-analysis
+# XYZ-analysis
 
 ## XYZ_Cat
 Коротко: категорії стабільності продажів по місяцях
